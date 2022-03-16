@@ -145,7 +145,7 @@
 >   
 >     - 전위 순회 예
 >   
->       ![tree7](./images/tree7.png)
+>       ![tree7](./images/tree7.PNG)
 >   
 >     - **중위순회(inorder traversal) : LVR**
 >   
@@ -157,11 +157,11 @@
 >   
 >       - 중위 순회 알고리즘
 >   
->         ![tree8](./images/tree8.png) 
+>         ![tree8](./images/tree8.PNG) 
 >   
 >       - 중위 순회 예
 >   
->         ![tree9](./images/tree9.png)
+>         ![tree9](./images/tree9.PNG)
 >   
 >     - **후위순회(postorder traversal) : LRV**
 >   
@@ -173,11 +173,11 @@
 >   
 >       - 후위 순회 알고리즘
 >   
->         ![tree10](./images/tree10.png) 
+>         ![tree10](./images/tree10.PNG) 
 >   
 >       - 후위 순회 예
 >   
->         ![tree11](./images/tree11.png)
+>         ![tree11](./images/tree11.PNG)
 >   
 >   ```python
 >   def pre_order(v):
@@ -221,7 +221,7 @@
 >   
 >   - 배열을 이용한 이진 트리의 표현
 >   
->     ![tree12](./images/tree12.png) 
+>     ![tree12](./images/tree12.PNG) 
 >   
 >     + 이진 트리에 각 노드 번호를 다음과 같이 부여
 >     + 루트의 번호를 1로 함
@@ -248,15 +248,15 @@
 >   
 >   - 부모 번호를 인덱스로 자식 번호를 저장
 >   
->     ![tree13](./images/tree13.png)
+>     ![tree13](./images/tree13.PNG)
 >   
 >     - 자식 번호를 인덱스로 부모 번호를 저장
 >   
->       ![tree14](./images/tree14.png) 
+>       ![tree14](./images/tree14.PNG) 
 >   
 >     - 루트 찾기, 조상 찾기
 >   
->       ![tree15](./images/tree15.png)
+>       ![tree15](./images/tree15.PNG)
 >   
 >     - 배열을 이용한 이진 트리의  표현의 단점
 >   
@@ -276,7 +276,7 @@
 >   
 >     - 피연산자는 모두 잎 노드
 >   
->       ![tree17](./images/tree17.png)
+>       ![tree17](./images/tree17.PNG)
 >   
 >     - 수식 트리의 순회
 >   
