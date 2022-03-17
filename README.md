@@ -4,7 +4,7 @@
 
 > ### STUDY
 
-1. [Tree](./STUDY/0316/Tree.md)
+1. [Tree](STUDY/0316/Tree.md)
 
 [파이썬 기초](edu/python/0117_00_python_basics.md)
 
