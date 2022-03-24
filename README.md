@@ -5,7 +5,7 @@
 > ### STUDY
 
 1. [Tree](STUDY/0316/Tree.md)
-1. Stack
+1. [Stack](STUDY/0324/Stack.md)
 
 
 
