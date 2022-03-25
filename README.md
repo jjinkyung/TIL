@@ -5,7 +5,8 @@
 > ### STUDY
 
 1. [Tree](STUDY/0316/Tree.md)
-1. [Stack](STUDY/0324/Stack.md)
+1. [Stack1](STUDY/0324/Stack1.md)
+1. [Stack2](STUDY/0325/Stack2.md)
 
 
 
@@ -81,3 +82,7 @@
 - [5185 이진수](SWEA/5185.md)
 - [5186 이진수2](SWEA/5186.md)
 - [1223 계산기2](SWEA/1223.md)
+- [2819 격자판의 숫자 이어 붙이기](SWEA/2819.md)
+- [10726 이진수 표현](SWEA/10726.md)
+- [4881 배열 최소 합](SWEA/4881.md)
+- [4880 토너먼트 카드게임](SWEA/4880.md)
