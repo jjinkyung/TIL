@@ -7,7 +7,7 @@
 1. [Tree](STUDY/0316/Tree.md)
 1. [Stack1](STUDY/0324/Stack1.md)
 1. [Stack2](STUDY/0325/Stack2.md)
-1. [완전검색 그리디](STUDY/0328/완전검색 그리디.md)
+1. [완전검색&그리디](STUDY/0328/완전검색&그리디.md)
 
 
 
