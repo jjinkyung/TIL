@@ -9,7 +9,7 @@
 1. [Stack2](STUDY/0325/Stack2.md)
 1. [완전검색&그리디](STUDY/0328/완전검색&그리디.md)
 1. [분할정복&백트래킹](STUDY/0330/분할정복&백트래킹.md)
-1. JavaScript_01
+1. JavaScript_01(STUDY/JavaScript_01.md)
 
 
 
