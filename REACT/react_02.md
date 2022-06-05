@@ -36,7 +36,9 @@
       // setCount로 새로운 값을 가진 것을 재생성(리렌더링) 하고 있음, state가 바뀌면 리렌더링
       let [count, setCount] = React.useState(0)
       const onClick = () => {
-        setCount(count +1) // 원래 count에서 setCount로 바꿔서 보여줌, 자동 리렌더링
+        // 현재의 state를 가지고 새로운 값을 계산해냄
+        // setCount(count +1) // 원래 count에서 setCount로 바꿔서 보여줌, 자동 리렌더링
+        setCount((current) => current+1) // 위와 똑같지만 이것이 더 안전함, 현재의 값을 확실히 함
       }
       // 사용자가 보게될 컴포넌트
       return (
