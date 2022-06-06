@@ -112,7 +112,27 @@
 ###### prop을 사용할 때 오류가 난 걸 react js는 알려주지 않음, 그래서 PropTypes을 사용하여 console에 경고문 띄우기
 
 ```html
-<script type="text/babel">
+<!DOCTYPE html>
+<head>
+</head>
+  <body>
+    <div id="root"></div>
+  </body>
+  <!-- <script src="https://unpkg.com/react@17.0.2/umd/react.production.min.js"></script> -->
+
+  <!-- proptype이 적용 안 된다면 위에 코드를 지우고 이 코드로 하기 -->
+  <script src="https://unpkg.com/react@17.0.2/umd/react.development.js"></script>
+
+  <!-- 모든 react element들을 html body에 둘 수 있도록 함 -->
+  <script src="https://unpkg.com/react-dom@17.0.2/umd/react-dom.production.min.js"></script>
+  
+  <!-- 이 방식은 느림 -->
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+  <!-- proptype, 어떤 타입의 prop을 받고 있는지 체크해줌 -->
+  <script src="https://unpkg.com/prop-types@15.7.2/prop-types.js"></script>
+  
+  <script type="text/babel">
     const root = document.getElementById("root")
   
     function Btn({ text, fontSize = 16 }) { // prop를 가져와서 적용 시키는 부분, fontSize = 14를 넣는 것은 default 값
@@ -144,5 +164,6 @@
     } 
     ReactDOM.render(<App />, root) // 사용자에게 보여준다
  </script>
+</html>
 ```
 
